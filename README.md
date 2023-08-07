@@ -10,9 +10,9 @@
   - focused on vaccination data and demographics of vaccination cases
 
 4. Utilized SQL Import and Export Wizard tool to import both datasets into my native client SQL server
-   - Made sure to create a new database in my server to become this import process and queries
+   - Made sure to create a new database in my server to query both files
 
-5. Began my check queries in the Covid Portfolio Project file to ascertain numbers
+5. Began my check queries, which you can find in the Covid Portfolio Project file, to ascertain numbers
 
 6. After numerous queries i joined both tables by date and location
    - idea was to look at total population compared to number of vaccinations (i had population in my coviddeaths file so this was my rationale)
@@ -27,7 +27,7 @@
 
 Tableau Portion of Project
 
-1. Condense queries from previous files into a single query file
+1. Condense queries from previous files into a single query file, total of four separate files
 
 2. Saved each query as an individual excel file (couldnt import an sql file with tableau public, only excel files)
 
